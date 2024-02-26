@@ -8,7 +8,8 @@ TOURS = [
     "title": "Lang Tengah Day Trip",
     "description": """
 Experience the wonders of Lang Tengah Island on a thrilling day excursion, offering breathtaking views and unforgettable moments.""",
-    "price": "MYR 250.00"
+    "price": "MYR 250.00",
+    "image":"/static/turtle.jpg"
   },
   {
     "id": 2,
@@ -16,7 +17,8 @@ Experience the wonders of Lang Tengah Island on a thrilling day excursion, offer
     "description": """
 Immerse yourself in the natural beauty of Lang Tengah Island during a comprehensive 
 3-day, 2-night adventure, creating memories that last a lifetime.""",
-    "price": "MYR 700.00 - MYR 2500.00"
+    "price": "MYR 700.00 - MYR 2500.00",
+    "image":"/static/turtle.jpg"
   },
   {
     "id": 3,
@@ -24,7 +26,8 @@ Immerse yourself in the natural beauty of Lang Tengah Island during a comprehens
     "description": """
 Embark on an adventurous camping journey on Lang Tengah Island, uncovering its 
 hidden gems and embracing the essence of outdoor living.""",
-    "price": "MYR 500.00"
+    "price": "MYR 500.00",
+    "image":"/static/turtle.jpg"
   },
   {
     "id": 4,
@@ -32,7 +35,8 @@ hidden gems and embracing the essence of outdoor living.""",
     "description": """
 Customize your perfect day trip for family, friends, or colleagues, ensuring a 
 tailored and unforgettable experience.""",
-    "price": "MYR 5,000.00"
+    "price": "MYR 5,000.00",
+    "image":"/static/turtle.jpg"
   },
   {
     "id": 5,
@@ -40,7 +44,8 @@ tailored and unforgettable experience.""",
     "description": """
 Discover the enchanting beauty of Redang Island during a memorable 3-day, 
 2-night getaway, offering a range of experiences for all.""",
-    "price": "MYR 700.00 - MYR 5,000.00"
+    "price": "MYR 700.00 - MYR 5,000.00",
+    "image":"/static/turtle.jpg"
   },
   {
     "id": 6,
@@ -48,7 +53,8 @@ Discover the enchanting beauty of Redang Island during a memorable 3-day,
     "description": """
 Explore the captivating sights of Pulau Bidong, also known as the Little Saigon 
 of Malaysia, on an enriching day trip filled with cultural immersion and scenic views.""",
-    "price": "MYR 200.00"
+    "price": "MYR 200.00",
+    "image":"{{url_for('static', filename='banner.jpg')}}"
   }
 ]
 
