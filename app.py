@@ -13,7 +13,7 @@ TOURS = [
   },
   {
     "id": 2,
-    "title": "Boat Ticket",
+    "title": "Boat Transfer",
     "description": "Return public speedboat transfer for easy Lang Tengah access.",
     "price": "MYR 160.00",
     "image":"/static/turtle.jpg",
